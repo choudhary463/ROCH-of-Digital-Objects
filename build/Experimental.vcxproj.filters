@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\anmol choudhary\Documents\BTP\build\CMakeFiles\1a8046540aca4a9b50b53af9cf112c67\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\anmol choudhary\Documents\BTP\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\anmol choudhary\Documents\BTP\build\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{46917DA7-42DA-3E83-B8D3-49ACA42856A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

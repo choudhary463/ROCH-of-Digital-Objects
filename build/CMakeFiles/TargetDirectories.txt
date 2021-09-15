@@ -1,0 +1,9 @@
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/Experimental.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/Continuous.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/Nightly.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/BTP.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/PACKAGE.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/anmol choudhary/Documents/BTP/build/CMakeFiles/ZERO_CHECK.dir
