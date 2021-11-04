@@ -230,7 +230,7 @@ void show_combined(Mat M1, int g){
     Mat M = M1.clone();
     int n = (int)IIC.size();
     Mat colM = Mat::zeros(N,N,CV_8UC3);
-   16 vector<Mat>planes;
+   vector<Mat>planes;
     for(int i=0;i<3;i++){
         planes.push_back(M);
     }
